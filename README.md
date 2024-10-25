@@ -12,7 +12,7 @@ https://docs.google.com/document/d/1szqNrgIhF085QIHHwLa5YBssufRFD-E9BiUDgDFfSik/
 ![Video](https://drive.google.com/file/d/14MvKZujDGHPWbGEWKuQOvlzIkBntnVlm/view?usp=drive_link)
 
 *if link broken*
-https://docs.google.com/document/d/1szqNrgIhF085QIHHwLa5YBssufRFD-E9BiUDgDFfSik/edit?usp=sharing
+https://drive.google.com/file/d/14MvKZujDGHPWbGEWKuQOvlzIkBntnVlm/view?usp=drive_link
 
 ***Contributions:***
 
