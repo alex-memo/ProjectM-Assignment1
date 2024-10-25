@@ -51,4 +51,4 @@ PracticeRange
 Project M is a 3v3 competitive team deathmatch, with modular loadouts, that combines a comic style and fantasy world together in a city setting.
 This project contains a forked practice range that is being developed for project M for players to be able to test their abilities and tools, and learn interactions between different game elements.
 
-![Jira Timeline](https://github.com/alex-memo/ProjectM-Assignment1/blob/main/image.jpg?raw=true)
+![Jira Timeline](https://github.com/alex-memo/ProjectM-Assignment1/blob/main/JiraTimeline.png?raw=true)
