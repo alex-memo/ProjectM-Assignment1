@@ -6,6 +6,7 @@ Ethan Gibson - 100862130
 ***Contributions:***
 
 ***Alex:***
+
 **Singletons:**
 CameraManager
 StaticListManager
@@ -27,6 +28,7 @@ PlayerController Observing Input
 UI observing Game Time
 
 ***Ethan:***
+
 **Diagrams:**
 CameraManger
 StaticListManager
@@ -49,4 +51,4 @@ PracticeRange
 Project M is a 3v3 competitive team deathmatch, with modular loadouts, that combines a comic style and fantasy world together in a city setting.
 This project contains a forked practice range that is being developed for project M for players to be able to test their abilities and tools, and learn interactions between different game elements.
 
-![alt text](https://drive.google.com/file/d/1Ybi6KaMY498sZfwJcRvoi0W8h4YgB-3v/view?usp=drive_link)
+![Jira Timeline](https://github.com/alex-memo/ProjectM-Assignment1/blob/main/image.jpg?raw=true)
