@@ -4,6 +4,8 @@ Alejandro *(Alex)* Mejia Moysen - 100862130
 
 Ethan Gibson - 100862130
 
+![Diagrams & Writing Portion](https://docs.google.com/document/d/1szqNrgIhF085QIHHwLa5YBssufRFD-E9BiUDgDFfSik/edit?usp=sharing)
+
 ***Contributions:***
 
 ***Alex:***
