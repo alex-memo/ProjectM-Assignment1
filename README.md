@@ -17,11 +17,11 @@ HUDManager
 Tools
 Barrels
 
-**Factory Pattern**
+**Factory Pattern:**
 MenuManagerFactory
 HpBarFactory
 
-**Observer Pattern**
+**Observer Pattern:**
 HealthBar observing player current hp
 HealthBar observing player shield
 PlayerController Observing Input
@@ -45,7 +45,8 @@ UI
 **Map:**
 PracticeRange
 
-#This was not the repository that is being worked on, this is a forked repo from Project M, which is private
+This was not the repository that is being worked on, this is a forked repo from Project M, which is private
+=
 ***Project M***
 #Description
 Project M is a 3v3 competitive team deathmatch, with modular loadouts, that combines a comic style and fantasy world together in a city setting.
