@@ -58,6 +58,7 @@ Project M is a 3v3 competitive team deathmatch, with modular loadouts, that comb
 This project contains a forked practice range that is being developed for project M for players to be able to test their abilities and tools, and learn interactions between different game elements.
 
 ![Jira Timeline](https://github.com/alex-memo/ProjectM-Assignment1/blob/main/JiraTimeline.png?raw=true)
+![Jira Timeline](https://drive.google.com/file/d/1Ybi6KaMY498sZfwJcRvoi0W8h4YgB-3v/preview)
 ***External Resources***
 3D dummy character from Mixamo.com *A private model for Project M is on the original repository but will not be made available in any public repo*
 
