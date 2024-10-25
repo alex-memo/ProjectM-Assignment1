@@ -48,7 +48,7 @@ PracticeRange
 This was not the repository that is being worked on, this is a forked repo from Project M, which is private
 =
 ***Project M***
-#Description
+*Description*
 Project M is a 3v3 competitive team deathmatch, with modular loadouts, that combines a comic style and fantasy world together in a city setting.
 This project contains a forked practice range that is being developed for project M for players to be able to test their abilities and tools, and learn interactions between different game elements.
 
